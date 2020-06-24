@@ -1,3 +1,1 @@
-# Radha-Devops
-Training
-samplefile to git
+file clone from github to git
